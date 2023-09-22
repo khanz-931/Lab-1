@@ -14,9 +14,6 @@ Load packages and data:
 
 ```{r load-pkg-data}
 #| message: false
-# install the package 'Lahman'
-install.packages('Lahman')
-# load the package
 library(Lahman)
 ```
 
